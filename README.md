@@ -1,2 +1,2 @@
 # git_practice
-## git 
+## git 연습
